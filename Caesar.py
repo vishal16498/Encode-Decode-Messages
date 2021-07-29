@@ -38,5 +38,4 @@ while continue_:
     if play_again == "no":
         continue_ = False
         print("Cheers")
-    else:
-        continue_
+
